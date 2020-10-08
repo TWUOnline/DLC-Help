@@ -68,7 +68,7 @@ When it comes to video editing, there are a few great (and free) options.
 #####Davinci Resolve
 * Super powerful, Professional Grade
 * Requires a powerful computer
-* Not Super Intuitive
+* Not super intuitive
 * Great option for a would-be professional editing
 
 [Davinci Resolve Tutorial](https://youtu.be/63Ln33O4p4c)
