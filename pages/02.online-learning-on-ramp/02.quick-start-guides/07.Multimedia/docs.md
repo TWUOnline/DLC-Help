@@ -66,7 +66,8 @@ When it comes to video editing, there are a few great (and free) options.
 [Windows 10 Video Editor Tutorial](https://youtu.be/t6yQwLuoO3w)
 
 #####Davinci Resolve
-* Super powerful, Professional Grade
+* Super powerful
+* Professional grade
 * Requires a powerful computer
 * Not super intuitive
 * Great option for a would-be professional editing
