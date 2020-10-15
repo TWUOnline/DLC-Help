@@ -33,6 +33,8 @@ Most people think that Zoom is only for meetings; however, it works well as a re
 
 [Zoom Screen Recording Tutorial](https://youtu.be/yii4M5204SE)
 
+<p>&nbsp;</p>   
+
 ####But I Don't Have a Camera!
 ![man shooting video with a smartphone](phone.jpg  "multimedia" )
 
