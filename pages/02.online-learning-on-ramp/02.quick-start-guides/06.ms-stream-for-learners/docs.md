@@ -12,7 +12,7 @@ TWU has provided access to Microsoft Stream, which is like our very own YouTube,
 
 ### Accessing Stream
 
-[Visit web.microsoftstream.com](https://web.microsoftstream.com) and sign in with your TWU Pass credentials, including your full TWU email address `firstname.lastname]@mytwu.ca`.
+[Visit web.microsoftstream.com](https://web.microsoftstream.com) and sign in with your TWU Pass credentials, including your full TWU email address `firstname.lastname@mytwu.ca`.
 
 ![alt-text](stream-1.png "Microsoft Stream Sign in for TWU")
 
