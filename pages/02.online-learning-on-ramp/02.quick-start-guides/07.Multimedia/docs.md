@@ -26,6 +26,8 @@ This next one is a freemium screen recorder.  What we mean by that is that the f
 
 [Screencast-o-matic Tutorial](https://screencast-o-matic.com/tutorial/welcome-to-screencast-o-matic)
 
+Great news! If you've tried SOM and  you like it, you can request the full version through [TWIT](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267).
+
 #####Zoom - More Than Just a Meeting Space
 Most people think that Zoom is only for meetings; however, it works well as a recording tool too with some handy features to boot.  
 
