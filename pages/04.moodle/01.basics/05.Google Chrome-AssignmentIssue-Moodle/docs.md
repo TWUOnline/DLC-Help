@@ -16,6 +16,7 @@ You can tell the browser to allow cookies from Moodle specifically by using the 
 4. Next to “Sites that can always use cookies,” click Add.
 ![](googlechrome.jpeg)
 5. Enter the web address.
-- To create an exception for an entire domain, insert [*.] before the domain name. Enter: [*.]learn.twu.ca
+- To create an exception for an entire domain, insert ![](exceptioncode.jpeg)
 6. Select Add.
-Note: If you do not want to adjust your Chrome settings, please use an alternative browser for the time being, until Google addresses the issue (if they address the issue). For the best experience, we recommend using Mozilla Firefox when working with Moodle.
+
+**Note:** If you do not want to adjust your Chrome settings, please use an alternative browser for the time being, until Google addresses the issue (if they address the issue). For the best experience, we recommend using Mozilla Firefox when working with Moodle.
