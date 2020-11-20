@@ -10,7 +10,7 @@ taxonomy:
 
 ### Finding what you need...
 
-Tap on a topic in the left-hand menu.
+Click or tap on a topic in the left-hand menu.
 
 Use the arrows on the side of the page to browse.
 
