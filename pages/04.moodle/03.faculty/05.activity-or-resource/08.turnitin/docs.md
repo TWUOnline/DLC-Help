@@ -12,7 +12,8 @@ visible: true
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 #### Research on 'Plagiarism Detection Software'
-[embedly url="https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00192-4"]
+<a class="embedly-card" data-card-key="05acda8fea1b4f099c92b66268f422dd" data-card-controls="0" data-card-image="https://media.springernature.com/w200/springer-static/cover/journal/41239.jpg" data-card-type="article" data-card-align="left" href="https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-020-00192-4">Testing of support tools for plagiarism detection</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 #### Advice for avoiding plagiarism.
 
