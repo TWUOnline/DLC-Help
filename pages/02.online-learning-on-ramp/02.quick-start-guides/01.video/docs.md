@@ -12,6 +12,9 @@ visible: true
 
 The purpose of this quick start guide is to help you sort through some of the technical logistics of teaching online. This guide covers hardware recommendations, setting up the ideal recording environment, assessing your internet speed, and running an online class session. More detailed instructions, buying recommendations and other relevant info are linked throughout the guide.
 
+<iframe src="https://player.vimeo.com/video/612270304?h=0c7e360dcb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/612270304">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ### Step 1: The Hardware
 ![alt-text](hardware.jpg "A Man sitting in front of a mic setup for podcasting")
 
