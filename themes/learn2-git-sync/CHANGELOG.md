@@ -1,3 +1,15 @@
+# v1.6.5
+## 03/21/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v1.6.4
+## 02/28/2021
+
+1. [](#improved)
+    * Reduced plugin dependencies, thanks to the new Grav Skeleton build process
+
 # v1.6.3
 ## 02/15/2021
 
