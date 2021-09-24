@@ -50,7 +50,7 @@ If you don’t mind being tethered to your computer, and want something simple t
 ##### Wireless Mic
 Enjoy unrestricted movement as you teach! But be mindful of potential connectivity issues depending on bluetooth strength or signal interference. Also remember to keep it charged before class.
 
-**Wireless Mic:** https://amzn.to/3kGxbJI
+**Wireless Mic:** https://amzn.to/39DtXjz
 
 **Wireless Headset:** https://amzn.to/31i26Te
 ### Step 2: The Setup
