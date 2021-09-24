@@ -10,7 +10,7 @@ visible: true
 ![alt-text](room.jpg "A room set up for video conferencing")
 
 
-The purpose of this quick start guide is to help you sort through some of the technical logistics of teaching online. This guide covers hardware recommendations, setting up the ideal recording environment, assessing your internet speed, and running an online class session. More detailed instructions, buying recommendations and other relevant info are linked throughout the guide.
+The purpose of this quick start guide is to help you sort through some of the technical logistics of teaching online. This guide covers hardware recommendations, setting up the ideal recording environment, assessing your internet speed, and running an online class session. More detailed instructions, buying recommendations and other relevant info are linked throughout the guide.©
 
 <iframe src="https://player.vimeo.com/video/613908225?h=ec7404e57a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/613908225">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuglobalonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -35,22 +35,24 @@ If you need to purchase a webcam, please consider something that would be capabl
 
 **OBSBOT Camera:** https://www.obsbot.com/obsbot-tiny
 
+**Webcam:** https://amzn.to/2ZfIRH4
+
 #### The Microphone
 For your convenience you might be tempted to use your built-in microphone. Please don’t. Due to the proximity of the built-in mic to the noise transmitting parts of you computer (fans, hard drives, electric signals), the audio quality will suffer. For this reason we **STRONGLY** recommend using an external microphone. It will even make you look better (*user experience may vary*)! If you do not have something that will work yet, below are a couple of recommendations.
 
 ##### Wired Mic
 If you don’t mind being tethered to your computer, and want something simple that will just work.
 
-**Suggested Wired Mic:** https://amzn.to/2NB7pF2
+**Wired Mic:** https://amzn.to/2NB7pF2
 
-**Suggested Wireless Mic:** https://amzn.to/3kGxbJI
+**Wireless Mic:** https://amzn.to/3kGxbJI
 
-**Suggested Wired Headset W/ Mic:** https://amzn.to/2ZcmlPx
+**Wired Headset W/ Mic:** https://amzn.to/2ZcmlPx
 
 ##### Wireless Mic
 Enjoy unrestricted movement as you teach! But be mindful of potential connectivity issues depending on bluetooth strength or signal interference. Also remember to keep it charged before class.
 
-**Suggested Wireless Headset:** https://amzn.to/31i26Te
+**Wireless Headset:** https://amzn.to/31i26Te
 ### Step 2: The Setup
 ![alt-text](environment.jpg "A child sits in the foreground as her mother works at her computer")
 
@@ -68,7 +70,7 @@ So your room is quiet now. Great! But what does it look like? By keeping your re
 - To ensure your face is well lit, we recommend recording with a cheap ring light. The light should be directed towards you, at about the same distance as your camera.
 - If you are feeling adventurous you could also [experiment with natural lighting](https://www.youtube.com/watch?v=j7Rf6u-XveM).
 
-**Suggested Ring Light:** https://amzn.to/2NyCPMo
+**Ring Light:** https://amzn.to/2NyCPMo
 
 #### Camera Position
 - Let’s make you look great! **Ideally your camera should be positioned to line up with your eyes.** This is the most natural, flattering angle (no-one wants a double chin).
@@ -79,11 +81,11 @@ There are a few options for positioning your camera to eye height:
 - If you use a **laptop with built-in webcam** you can use a laptop riser in combination with an external keyboard and mouse. In addition to helping adjust the working height of your laptop, a laptop riser can help with cooling. Video conferencing (really anything video related) does put extra strain on your processor, so keeping the laptop elevated allows for better airflow from the vents, better cooling, less processor strain, and less risk of video stutter.
 - If you use an **external webcam**, you could use a cheap tripod, extension arm, or if you have a height-adjustable external monitor, you could clip the webcam to the top.
 
-**Suggested Adjustable Laptop Riser:** https://amzn.to/2VozzYe
+**Adjustable Laptop Riser:** https://amzn.to/2VozzYe
 
-**Suggested Camera Arm:** https://amzn.to/3dCQAnK
+**Camera Arm:** https://amzn.to/3dCQAnK
 
-**Suggested Selfi Tripod:** https://amzn.to/2YCJiw0
+**Selfi Tripod:** https://amzn.to/2YCJiw0
 
 ### Step 3: Internet Connection
 ![alt-text](speedtest.png "A screenshot from speedtest.net")
