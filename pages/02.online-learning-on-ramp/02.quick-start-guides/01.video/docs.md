@@ -12,8 +12,8 @@ visible: true
 
 The purpose of this quick start guide is to help you sort through some of the technical logistics of teaching online. This guide covers hardware recommendations, setting up the ideal recording environment, assessing your internet speed, and running an online class session. More detailed instructions, buying recommendations and other relevant info are linked throughout the guide.
 
-<iframe src="https://player.vimeo.com/video/612270304?h=0c7e360dcb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/612270304">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/613908225?h=ec7404e57a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/613908225">Inclusive Classroom Demo</a> from <a href="https://vimeo.com/twuglobalonline">Trinity Western Online</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Step 1: The Hardware
 ![alt-text](hardware.jpg "A Man sitting in front of a mic setup for podcasting")
@@ -33,7 +33,7 @@ If your computer is a laptop with a built-in webcam, this will most likely be th
 
 If you need to purchase a webcam, please consider something that would be capable of recording at HD resolution (1080p).
 
-**Suggested Camera:** https://amzn.to/2ZfIRH4
+**OBSBOT Camera:** https://www.obsbot.com/obsbot-tiny
 
 #### The Microphone
 For your convenience you might be tempted to use your built-in microphone. Please don’t. Due to the proximity of the built-in mic to the noise transmitting parts of you computer (fans, hard drives, electric signals), the audio quality will suffer. For this reason we **STRONGLY** recommend using an external microphone. It will even make you look better (*user experience may vary*)! If you do not have something that will work yet, below are a couple of recommendations.
@@ -42,6 +42,8 @@ For your convenience you might be tempted to use your built-in microphone. Pleas
 If you don’t mind being tethered to your computer, and want something simple that will just work.
 
 **Suggested Wired Mic:** https://amzn.to/2NB7pF2
+
+**Suggested Wireless Mic:** https://amzn.to/3kGxbJI
 
 **Suggested Wired Headset W/ Mic:** https://amzn.to/2ZcmlPx
 
