@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 <!--- Do not delete or move this file! it is linked to an email that went out to faculty. --->
