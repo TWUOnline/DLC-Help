@@ -4,9 +4,9 @@ taxonomy:
     category: docs
 ---
 
-## TWU Digital Learning Commons
+## TWU Learning Environment Help Pages
 
-### Documentation
+Welcome to the help pages for TWU Faculty!  Here you'll find information on setting up your courses in Moodle or WordPress, holding video sessions using Zoom or Teams, and other tips for using educational technology.
 
 ### Finding what you need...
 
