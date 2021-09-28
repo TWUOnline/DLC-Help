@@ -1,5 +1,5 @@
 ---
-title: 'Uploading Videos to MS Stream'
+title: 'MS Stream'
 taxonomy:
     category:
         - docs
