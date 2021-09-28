@@ -2,6 +2,7 @@
 title: 'Multi-Access Learning'
 taxonomy:
     category: docs
+published: false
 ---
 
 We have prepared a number of resources for you to assist in completing your courses in the case that TWU campuses must close due to COVID-19.
