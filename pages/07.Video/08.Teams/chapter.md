@@ -2,7 +2,7 @@
 title: 'Teams'
 taxonomy:
     category: docs
-published: false
+published: true
 ---
 
 Teams is a great platform for collaboration. It can host chats, calls, and meetings and even store shareable files. The video below show some of the features of Teams.
