@@ -1,5 +1,5 @@
 ---
-title: 'Using Video Conferencing'
+title: 'Zoom Video Conferencing'
 taxonomy:
     category:
         - docs
