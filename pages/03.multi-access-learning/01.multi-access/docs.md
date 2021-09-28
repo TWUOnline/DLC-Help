@@ -5,6 +5,7 @@ taxonomy:
         - docs
 child_type: docs
 visible: false
+published: false
 ---
 
 <!--- Do not delete or move this file! it is linked to an email that went out to faculty. --->
