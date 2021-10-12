@@ -2,6 +2,7 @@
 title: Finishing Well
 taxonomy:
     category: docs
+visible: false
 ---
 
 Among the most significant questions we are receiving is 'What about final exams?'.
