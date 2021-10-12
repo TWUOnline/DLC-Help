@@ -5,6 +5,8 @@ taxonomy:
         - docs
 child_type: docs
 visible: false
+published: false
+
 
 ---
 

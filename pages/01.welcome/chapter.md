@@ -30,5 +30,3 @@ We have created a Team in Microsoft Teams, [please join the team at this link.](
 Once you are in the team, you can use the chat function to send a direct message to Reza by typing `@reza` and choosing 'Reza Khosrowtaj' and then clicking 'Send'.
 
 Alternately, you can click the 'Meet now' button to start a video call.
-
-![alt-text](meet-now.png "Meet Now button")
