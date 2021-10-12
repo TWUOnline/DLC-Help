@@ -4,12 +4,17 @@ taxonomy:
     category: docs
 ---
 
+## Online Learning On-Ramp
+
 !! See [TWU.ca](https://www.twu.ca) for the latest official information about COVID-19.
 
-### Recorded Support Sessions (Monday and Tuesday, March 16-17)
+!!!! Thank you to everyone who participated in our faculty support sessions in 2020-2021!  The next Teaching ONline Effectively (TOnE) session will be October 28th or 29th.  Watch for more info in your inbox.
 
 ---
 
+### Recorded Support Sessions
+
+*March 16-17, 2021*
 Colin Madland and Scott Macklin discuss the complex and human challenges regarding moving courses online including tips, resources and promising practices using Moodle and Zoom in support of teaching and learning.
 
 <iframe src="https://player.vimeo.com/video/398390578" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -23,7 +28,3 @@ Laurie Matthias and Nina Lui discuss re-thinking authentic and relevant ways to 
 <p><a href="https://vimeo.com/398392036">TWU Online Jam Assessment</a> from <a href="https://vimeo.com/twucourses">Trinity Western Courses</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
-
-
-
-### See the next page for support options.
