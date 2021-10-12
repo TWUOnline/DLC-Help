@@ -9,7 +9,8 @@ visible: true
 ---
 ![a student working at her computer](multimedia.jpg  "multimedia" )
 
-Covid-19 has certainly changed the way we see the world and what our educational experience looks like. Much of our class time is now online. But with these new restrictions comes a new opportunity for creativity. You may find that your instructors are asking you to submit your assignments in a digital fashion.  Our hope is to inspire you as you begin to plan your multimedia assignments. Below is a list of some of our favourite digital tools.
+
+Here are some tips for faculty and students in creating multimedia assignments. Below is a list of some of our favourite digital tools.
 
 We have organized this list from easiest to techiest.
 

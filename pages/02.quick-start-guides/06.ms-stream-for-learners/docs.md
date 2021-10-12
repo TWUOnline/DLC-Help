@@ -4,7 +4,8 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: true
+visible: false
+
 ---
 
 TWU has provided access to Microsoft Stream, which is like our very own YouTube, but accessible only to members of the TWU community.

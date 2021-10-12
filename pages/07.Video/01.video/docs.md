@@ -1,5 +1,5 @@
 ---
-title: 'Video'
+title: 'Getting Started with Video'
 taxonomy:
     category:
         - docs

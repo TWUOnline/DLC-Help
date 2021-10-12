@@ -1,5 +1,5 @@
 ---
-title: 'Zoom Video Conferencing'
+title: 'Zoom'
 taxonomy:
     category:
         - docs
