@@ -13,6 +13,7 @@ visible: true
 
 [plugin:youtube](https://youtu.be/hIkCmbvAHQQ)
 
+
 ###How to Avoid Low Resolution Meeting Recordings
 You've probably noticed by now that Zoom can be a little stingy when it comes to processing Zoom recordings. A short recording MAY result in a video file with a resolution of 720p, but a long recording will often be lower in quality.
 
