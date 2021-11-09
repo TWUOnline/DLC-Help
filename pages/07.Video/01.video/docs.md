@@ -109,6 +109,8 @@ https://bit.ly/38b3w3h
 
 ![alt-text](Zoom-Record.png "Zoom record button")
 
+For Zoom recording tips, [click here.](https://create.twu.ca/help/video/zoom/zoom-tips)
+
 #### Uploading
 Once your Zoom session is over, you will need to [upload your Zoom recordings to Microsoft Stream](https://create.twu.ca/help/online-learning-on-ramp/running-a-session/conferencing/managing-videos).
 
