@@ -12,7 +12,48 @@ visible: true
 !!!! Faculty, please share this link with learners in your course!
 
 [plugin:youtube](https://youtu.be/hIkCmbvAHQQ)
+###How to Avoid Low Resolution Meeting Recordings
+You've probably noticed by now that Zoom can be a little stingy when it comes to processing Zoom recordings. A short recording MAY result in a video file with a resolution of 720p, but a long recording will often be lower in quality.
 
+Currently the best way to avoid low resolution Zoom recordings involves a little bit of trickery.
+By asking Zoom to treat your webcam like a document camera, Zoom will improve the quality of your recordings in two ways.
+
+####Pros
+- Zoom will record at a higher resolution.
+- The recording will be sharper. This might be especially helpful where detail (such as notes on a whiteboard) are important.
+####Cons
+- since Zoom sees your webcam as a screen-share (not as a webcam), you won’t be able to simultaneously share another screen.
+
+####The Process
+- At the bottom of your screen, click the ‘Share Screen’ button.
+
+![The 'Share Screen' button in Zoom](Share_Screen.png "The 'Share Screen' button in Zoom")
+- Click Advanced, ‘Content from 2nd Camera’, ’Share’.
+
+![Advanced Screen share settings](ScreenShare_Advanced.png "Advanced Screen Share Settings")
+- If you have more than one camera, you may need to click the ‘Switch Camera’ button to get to the right camera input.
+
+![Switch Cameras](Alt_camera.png "Switch Cameras")
+- Your camera will display, and you should now be able to record (for best results, record to computer).
+
+![Record to computer](Recording.png "Record to Computer")
+- After your meeting has ended and your recording has processed your should have a file with a resolution of at least 1080p.
+###Recording a Screen and Camera Simultaneously
+- Enable your camera (if not on already)
+
+- If you want to ensure that your camera will remain on screen at all times, under the ‘Participants’ tab, hover over your name and select ‘More’, then ‘Pin” from the dropdown.
+
+- Click the ‘Share Screen’ button
+
+- Under the ‘Basic’ tab, choose the application that you’d like to share, such as a Power Point Presentation (This option works slightly better than sharing your Desktop, as it will consistently place your camera in the same place in your recordings). Click Share.
+
+- The focus should now shift to the application you selected.
+
+- There are a few different options available for displaying participants. If you’d like only your camera to be visible, select the ‘Show active speaker video’ Option
+
+- Once you’ve chosen who will be visible in your recording, you can choose to have the participants overlay as large or small by clicking and dragging the corner of the overlay window.
+
+- Keep in mind that although you can move the participants overlay anywhere on your screen, in the final recording, the participants overlay will always be in the top right corner.
 ### A note about Bandwidth
 
 Our faculty colleague Kay McAllister passed along this blog post about recognizing the challenges of bandwidth for some learners. [Here is a link to the post](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/?fbclid=IwAR2fBxmBCuZOHfG811nfHU9nNLsHetYKME_6YQjPIMDgCckDSUg85wnSH_E), and a helpful matrix to visualize the varying levels of bandwidth and immediacy.
