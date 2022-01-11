@@ -112,7 +112,7 @@ There are a few great video tutorials that should answer most of your questions.
 The following brief video explains the recording process, as well as where to find your files once your session is over.
 https://bit.ly/38b3w3h
 
-!! NOTE: If you record to the cloud, the recording will have participant names overlayed over their video. If you record to  your computer, names will not be displayed. 
+!! NOTE: If you record to the cloud, the recording will have participant names overlayed over their videos. If you record to  your computer, names will not be displayed. 
 
 
 **Ensure that you hit the record button** at the beginning of your teaching time (lower right hand corner of the Zoom user interface).
