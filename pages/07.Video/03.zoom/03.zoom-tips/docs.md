@@ -36,7 +36,7 @@ By asking Zoom to treat your webcam like a document camera, Zoom will improve th
 - If you have more than one camera, you may need to click the ‘Switch Camera’ button to get to the right camera input.
 
 ![Switch Cameras](Zoom_Recording-3.png "Switch Cameras")
-- Your camera will display, and you should now be able to record (for best results, record to computer).
+- For Windows users, the camera stream will instantly fill your screen. Double click anywhere on your screen and you will get a scalable window. You should now be able to record using the Zoom controls at the top of your screen (for best results, record to computer).
 
 ![Record to computer](Zoom_Recording-4.png "Record to Computer")
 - After your meeting has ended and your recording has processed your should have a file with a resolution of at least 1080p.
