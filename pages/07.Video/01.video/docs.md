@@ -37,6 +37,13 @@ If you need to purchase a webcam, please consider something that would be capabl
 
 **Webcam:** https://amzn.to/2ZfIRH4
 
+Alternatively you can use your smartphone as a webcam. This isn't the best long term solution (it is harder on the life of your phone and a little bit cumbersome to setup), but does work quite well.
+
+**Droidcam (Android)** https://www.dev47apps.com
+
+**Epoccam** https://www.elgato.com/en/epoccam
+
+
 #### The Microphone
 For your convenience you might be tempted to use your built-in microphone. Please don’t. Due to the proximity of the built-in mic to the noise transmitting parts of you computer (fans, hard drives, electric signals), the audio quality will suffer. For this reason we **STRONGLY** recommend using an external microphone. It will even make you look better (*user experience may vary*)! If you do not have something that will work yet, below are a couple of recommendations.
 
@@ -104,6 +111,9 @@ There are a few great video tutorials that should answer most of your questions.
 #### Recording A Zoom Meeting
 The following brief video explains the recording process, as well as where to find your files once your session is over.
 https://bit.ly/38b3w3h
+
+!! NOTE: If you record to the cloud, the recording will have participant names overlayed over their video. If you record to  your computer, names will not be displayed. 
+
 
 **Ensure that you hit the record button** at the beginning of your teaching time (lower right hand corner of the Zoom user interface).
 
