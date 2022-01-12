@@ -1,27 +1,22 @@
 ---
-title: Known Google Chrome and Assignment Issue in Moodle
+title: Blackboard Ally
 taxonomy:
     category: docs
 ---
 
-#### Google Chrome issues when grading Assignments in Moodle
+#### What is Blackboard Ally?
 
-Several faculty members have recently reported an issue with grading and feedback in Moodle while using Google Chrome . Here are some ways to address these concerns until updates are released.
+Blackboard Ally is a built-in accessibility tool integrated into our Moodle Learning Management System (LMS) that helps instructors build a more inclusive learning environment and improve the student experience by helping users take clear control of course content with usability, accessibility and quality in mind.
 
-If you are using Chrome , you may be unable to save grades and feedback entered on Assignment activities. The issue is likely caused by a change with how the latest version of Google Chrome aggressively blocks third-party cookies by default.
+**For Students:**
+- Ally creates multiple alternatives from the original documents in your course.  Alternative files include readable text for screen readers, pictures with captions, and easy-to-navigate content.  Students can download these alternative formats anywhere that files are used.
+- *See the [Ally Student Guide](https://help.blackboard.com/Ally/Ally_for_LMS/Student/Quick_Start) for instructions on how to access alternative files.*
 
-You can try adjusting your Chrome browser’s settings to “Allow Cookies” or to make an exception to allow cookies from Moodle using the information at the [Google Chrome Help page](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en).
+**For Faculty:**
+- In your Moodle course, you may have noticed beside some files there is a coloured gauge with a number associated with it.  This tells you the accessibility score of the uploaded document.  If you click on the gauge, it will suggest ways to improve the file.  Often this involved adding ALT text to an image, or to re-scan a pdf so the font is more readable.
 
+For more information on the Ally Accessibility tool, please see this [Quick Start Guide](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor/Quick_Start). 
 
-You can tell the browser to allow cookies from Moodle specifically by using the steps outlined at the “Allow or block cookies for a specific site” section:
+If you have any question, please contact the Online Learning Team at elearning@twu.ca
 
-1. On your computer, open Chrome.
-2. At the top right, click More and then Settings.
-3. Under “Privacy and security,” click Cookies and other site data.
-4. Next to “Sites that can always use cookies,” click Add.
-![](googlechrome.jpeg)
-5. Enter the web address.
-- To create an exception for the  entire TWU's Moodle site, insert the following code![](exceptioncode.jpeg)
-6. Select Add.
-
-**Note:** If you do not want to adjust your Chrome settings, please use an alternative browser for the time being, until Google addresses the issue (if they address the issue). For the best experience, we recommend using Mozilla Firefox when working with Moodle.
+!! Note our Online team is presenting a TONE workshop on how to use Blackboard Ally on January 28th.  Look to your inboxes for more details to come.
