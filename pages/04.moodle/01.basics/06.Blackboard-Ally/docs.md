@@ -29,3 +29,7 @@ See the following image of the Ally features you might see in your course.
 If you have any question, please contact the Online Learning Team at elearning@twu.ca
 
 !! Note our Online team is presenting a TONE workshop on how to use Blackboard Ally on January 28th.  Look to your inboxes for more details to come.
+
+## Additional Resources
+As you go through the Ally Guides, you might be wondering about the following:
+- [Beeline Reader](https://www.beelinereader.com/): This format makes reading on-screen easier, faster, and more enjoyable. This is helpful for anyone with screen fatigue, as well as those with dyslexia.
