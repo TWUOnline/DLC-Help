@@ -10,7 +10,7 @@ visible: true
 
  Instructors and Program Associates can create user overrides to give students more time to complete a quiz. In other words, this function allows you to give extensions in Moodle.
 
- You may receive a faculty notification letter from Accessibility Services informing you that a student needs additional time to take a test due to a documented disability. Moodle allows you to easily tailor your quiz settings for one or more students. Here's how:
+You may receive a faculty notification letter from the Centre for Accessible Learning informing you that a student qualifies for additional time to take a test. Moodle allows you to easily tailor your quiz settings for one or more students. Here's how:
 
 1. Navigate to the Moodle quiz activity.
 
@@ -24,5 +24,6 @@ visible: true
 
 ---
 
-Here is a video showing the process.
+Here is a video showing the process. Keep in mind this is from another university, so the invitation at the end should direct you to contact elearning[at]twu.ca.
+
 [plugin:youtube](https://youtu.be/ZGCszX73s1U)
