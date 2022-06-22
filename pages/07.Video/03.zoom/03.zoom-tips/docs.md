@@ -64,6 +64,13 @@ By asking Zoom to treat your webcam like a document camera, Zoom will improve th
 ![Adjust the size of the participants window](Zoom_Recording-11.png "Adjust the size of the participants window")
 !! NOTE: Although you can move the participants overlay anywhere on your screen, in the final recording, the participants overlay will always be in the top right corner.
 
+### Zoom Whiteboards
+
+As of April 2022 Zoom has released the Whiteboards feature. If you do not see the "Whiteboards" button at the lower right-hand corner of your Zoom window, please update the the latest Zoom release.
+![Screen capture of the button for Zoom Whiteboards](whiteboards.png "Screen capture of the button for Zoom Whiteboards")
+
+[Learn more about Zoom Whiteboards](https://www.youtube.com/watch?v=2tSTMbI1omA&t=49s)
+
 ### A note about Bandwidth
 
 Our faculty colleague Kay McAllister passed along this blog post about recognizing the challenges of bandwidth for some learners. [Here is a link to the post](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/?fbclid=IwAR2fBxmBCuZOHfG811nfHU9nNLsHetYKME_6YQjPIMDgCckDSUg85wnSH_E), and a helpful matrix to visualize the varying levels of bandwidth and immediacy.
