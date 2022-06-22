@@ -66,7 +66,7 @@ By asking Zoom to treat your webcam like a document camera, Zoom will improve th
 
 ### Zoom Whiteboards
 
-As of April 2022 Zoom has released the Whiteboards feature. If you do not see the "Whiteboards" button at the lower right-hand corner of your Zoom window, please update the the latest Zoom release.
+As of April 2022 Zoom has released the Whiteboards feature. If you do not see the "Whiteboards" button at the lower right-hand corner of your Zoom window, please update to the latest Zoom release.
 ![Screen capture of the button for Zoom Whiteboards](whiteboards.png "Screen capture of the button for Zoom Whiteboards")
 
 [Learn more about Zoom Whiteboards](https://www.youtube.com/watch?v=2tSTMbI1omA&t=49s)
