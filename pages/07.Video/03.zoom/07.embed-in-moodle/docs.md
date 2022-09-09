@@ -26,19 +26,21 @@ Once you have uploaded your video to MS Stream, you will want to share it with y
 
 ### Open Moodle
 
-You now need to paste the embed code into Moodle. We recommend that you paste the MS Stream channel on its own tab.
+You now need to paste the embed code into Moodle. We recommend that you paste the MS Stream channel in its own section.
 
-- Turn editing on by clicking the gear in the top right corner.
+- Turn editing on by clicking 'Edit mode'' in the top right corner.
 
 ![alt-text](share-3.png "Turn editing on")
 
-### Select an Empty Tab
+### Create or select a new topic
 
-Choose one of your tabs that doesn't have any content. If you don't have any empty tabs, click the '+' sign once.
+To create a new topic, open the topic that precedes the desired location of your new topic, scroll to the bottom of the topic, and click 'Add topic'
 
-- click the 'Edit' link then choose 'Edit section'.
+- click the three dots on the right side, then choose 'Edit topic'.
 
-![alt-text](share-4.png "Edit section")
+![alt-text](share-4.png "New Topic")
+
+![alt-text](share-4a.png "Edit Topic")
 
 ### Edit Tab Details
 
