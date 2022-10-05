@@ -2,7 +2,7 @@
 title: Assessment Tools
 taxonomy:
     category: docs
-visible: true
+visible: false
 
 ---
 ###This guide has gone on to bigger and better things. Check it out [here](https://multi-access.twu.ca/assessment/assessment-ideas).
