@@ -6,7 +6,11 @@ taxonomy:
 child_type: docs
 visible: true
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
 
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+<!--
 Video conferencing is a great way to connect with students online. Consider having weekly sessions, allowing time to teach content, explain assignments, facilitate student discussions, and assess students (presentations, etc.)
 
 
@@ -89,7 +93,7 @@ On the next page...
 ##### Zoom FAQ
 [TWIT has created a page of resources (many of which are duplicated here) including a list of FAQs.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=101246)
 
-<!--
+
 ##### BlueJeans
 TWU continues to provide central management of BlueJeans for web-conferencing, however, our service agreement with BlueJeans will expire after April 30, 2020.
 
@@ -99,9 +103,10 @@ If you have access to a BlueJeans license through TWU, you may continue to use t
 
 - [Tap of click here to access BlueJeans support for getting started.](https://support.bluejeans.com/s/getting-started-meetings-user-step-1)
 
--->
 
 ##### Other services
 There are several other options for faculty who may have already established means of synchronous communication such as Skype, FaceTime, Google Hangouts, Slack, Discord, etc. Our ability to troubleshoot these services will be very limited.
 
 ! If your students are to give **Class Presentations**, consider using video conferencing.  Students can share their screens of their notes/PowerPoints.  Sessions can be recorded for feedback purposes.
+
+-->

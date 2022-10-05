@@ -6,6 +6,11 @@ taxonomy:
 child_type: docs
 visible: true
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23228).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
+
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+<!--
 
 ### Joining a Zoom Session
 
@@ -156,4 +161,4 @@ After you read through this checklist, make it your own by deleting, adding, and
 - [OLC Continuity Planning and Emergency Preparedness](https://onlinelearningconsortium.org/about/continuity-planning-emergency-preparedness-resources/): This website includes a variety of resources including links to webinars, podcasts, and courses in teaching online.
 - [Effective Online Teaching](https://www.amazon.com/Effective-Online-Teaching-Foundations-Strategies/dp/0470578386): Foundations and Strategies for Student Success (Book)
 - [Empowering Online Learning](https://www.amazon.com/Empowering-Online-Learning-Activities-Reflecting/dp/0787988049): 100+ Activities for Reading, Reflecting, Displaying, and Doing (Book)
-- [How to use Breakout rooms in Zoom for Teaching and learning](https://www.youtube.com/watch?v=VkK5WEf6xgk).
+- [How to use Breakout rooms in Zoom for Teaching and learning](https://www.youtube.com/watch?v=VkK5WEf6xgk). -->

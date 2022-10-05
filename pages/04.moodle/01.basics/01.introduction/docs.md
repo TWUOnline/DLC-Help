@@ -4,7 +4,11 @@ taxonomy:
     category: docs
 child_type: docs
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4592).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
 
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+<!--
 #### About
 Moodle is a web platform that allows students and faculty to access a common, secure space to interact in the context of a particular course. Faculty are able to create or upload resources related to the course, distribute information about assignments and supplementary course materials, create and manage quizzes, and host conversations in the forums. Students are able to contact their faculty and each other, submit assignments, respond to discussion prompts, and complete quizzes.
 
@@ -46,3 +50,4 @@ The first page you see in Moodle will be your `Dashboard` showing all of your cu
 4. Students: if you don't see your course, there are a few reasons that may explain this, [which you can review here](https://create.twu.ca/help/moodle/basics/course-not-showing).
 4. Faculty: if a course title is greyed out, the course is not visible to students. [Tap or click here for instructions to make your course visible.](https://create.twu.ca/help/moodle/faculty/show-hide).
    - All courses are hidden by default and must be made visible to students by adjusting the settings of the course.
+-->

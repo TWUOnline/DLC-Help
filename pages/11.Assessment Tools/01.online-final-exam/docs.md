@@ -7,6 +7,11 @@ child_type: docs
 visible: true
 show_page_title: false
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://multi-access.twu.ca/assessment/online-final-exam).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
+
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+<!--
 
 ![alt-text](flowchart-white-bg.png "Assessment Flowchart")
 
@@ -58,3 +63,4 @@ These are some resources on creating effective final exam questions which I foun
 By Paul Hibbitts ([hibbittsdesign.org](http://hibbittsdesign.org/))
 
 ![alt_text](Delivering-a3.png "image_tooltip")
+-->

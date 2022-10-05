@@ -6,7 +6,11 @@ taxonomy:
 child_type: docs
 visible: true
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146631#6).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
 
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+<!--
 ### Sharing your videos in Moodle (optional, but recommended)
 
 Once you have uploaded your video to MS Stream, you will want to share it with your learners.
@@ -64,3 +68,4 @@ Use 'CTRL V' (Command V for macOS users) to paste the embed code, then click 'Up
 Once you have embedded the channel into your course, all videos that you add to the channel will automagically be visible in your course.
 
 ![alt-text](share-7.png "Channel in Moodle")
+-->

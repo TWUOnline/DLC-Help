@@ -6,7 +6,12 @@ taxonomy:
 child_type: docs
 visible: true
 ---
-### Sorting Through Your Techy Video Issues
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144493).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
+
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+
+<!-- ### Sorting Through Your Techy Video Issues
 ![alt-text](room.jpg "A room set up for video conferencing")
 
 
@@ -112,7 +117,7 @@ There are a few great video tutorials that should answer most of your questions.
 The following brief video explains the recording process, as well as where to find your files once your session is over.
 https://bit.ly/38b3w3h
 
-!! NOTE: If you record to the cloud, the recording will have participant names overlayed over their videos. If you record to  your computer, names will not be displayed. 
+!! NOTE: If you record to the cloud, the recording will have participant names overlayed over their videos. If you record to  your computer, names will not be displayed.
 
 
 **Ensure that you hit the record button** at the beginning of your teaching time (lower right hand corner of the Zoom user interface).
@@ -124,4 +129,4 @@ For Zoom recording tips, [click here.](https://create.twu.ca/help/video/zoom/zoo
 #### Uploading
 Once your Zoom session is over, you will need to [upload your Zoom recordings to Microsoft Stream](https://create.twu.ca/help/online-learning-on-ramp/running-a-session/conferencing/managing-videos).
 
-By now you should feel equipped with an understanding of the hardware, setup and systems required to run your classroom virtually. Should you need any assistance, please contact [elearning@twu.ca](mailto:elearning@twu.ca).
+By now you should feel equipped with an understanding of the hardware, setup and systems required to run your classroom virtually. Should you need any assistance, please contact [elearning@twu.ca](mailto:elearning@twu.ca). -->

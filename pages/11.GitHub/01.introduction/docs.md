@@ -4,7 +4,11 @@ taxonomy:
     category: docs
 child_type: docs
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146722).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
 
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+<!--
 -  Click the link in the invitation or go to [GitHub.com](https://github.com) and fill in the 'Sign-up' details. Keep in mind that you may choose to sign up anonymously if you are concerned about your privacy.
   - You can find more information on the [GitHub Help Pages](https://help.github.com/articles/signing-up-for-a-new-github-account/)
   - Make sure you choose a free plan.
@@ -79,3 +83,5 @@ Go to [atom.io](https://atom.io) and follow the download and installation instru
 #### Watch *GitHub for Poets 1.1*
 
 [plugin:youtube](https://youtu.be/BCQHnlnPusY)
+
+-->

@@ -6,7 +6,12 @@ taxonomy:
 child_type: docs
 visible: true
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146564). click here for [assessment examples](https://multi-access.twu.ca/assessment/assessment-ideas/video-audio#learning-activity-sound-effect-story)
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
 
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+
+<!--
 One way for you to personalize your site or add variety to your assignments is to record audio. This might seem a little more advanced than photography, but once you have played around for a while, it will become much easier. These activities are intended to provide a brief overview of recording and sharing audio files. We will highlight 3 great audio apps and also briefly introduce you to [Audacity](http://www.audacityteam.org/), an open source audio editing tool.
 
 ##### Privacy Note
@@ -83,3 +88,5 @@ Here is one such example done for a [school project](https://www.youtube.com/wat
 And you can find <a href="http://assignments.ds106.us/assignments/sound-effects-story/">many more as responses to the DS106 Sound Effects Story assignment</a>.
 
 Upload your final audio (exported as MP3) to [SoundCloud](http://soundcloud.com) and then you can embed the sounds just by pasting it's SoundCloud URL into a blank line of your editor in Moodle or WordPress (other blog platforms can use the SoundCloud HTML embed code).
+
+-->

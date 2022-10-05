@@ -6,6 +6,12 @@ taxonomy:
 child_type: docs
 visible: true
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146617).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
+
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+
+<!--
 
 TWU has provided access to Microsoft Stream, which is like our very own YouTube, but accessible only to members of the TWU community.
 
@@ -59,3 +65,4 @@ The next time you need to upload a video, start by clicking 'My content', then '
 ### Manage your computer storage
 
 **After you have confirmed that your video is in the proper channel *AND* you have tested that it plays**, you should move the original video file off of your computer and either onto an external drive (optional) or simply delete it.
+-->

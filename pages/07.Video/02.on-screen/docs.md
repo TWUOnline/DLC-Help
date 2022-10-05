@@ -7,6 +7,12 @@ taxonomy:
 child_type: docs
 visible: true
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=144493#5).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
+
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+
+<!--
 ![a young man using a laptop computer](student.png  "On-screen Presence" )
 
 As video conferencing, and online classes are becoming more the norm,  you might be considering how to improve your on-screen presence. If so, this guide is for you. For sorting through the techy side of video conferencing and filming, as well as gear recommendations, please see [Sorting Through Your Techy Video Issues.](https://create.twu.ca/help/online-learning-on-ramp/quick-start-guides/video)
@@ -35,4 +41,4 @@ Whenever possible, do not use your  built-in microphone. Try and position your 
 
 Let’s talk about you. The whole transition to learning online has left a lot of us feeling a little odd. It can be a startling transition to suddenly be talking to a camera instead of a person. Fortunately there are a few things that you can do to increase your comfort level. Take a moment and watch this short video for some great tips on  [getting comfortable on camera.](https://www.youtube.com/watch?v=ymyVwx4xNNQ)
 
-We hope you've found these tips useful as you adapt the changes in your academic experience. Should you have any questions, please contact [elearning@twu.ca](mailto:elearning@twu.ca).
+We hope you've found these tips useful as you adapt the changes in your academic experience. Should you have any questions, please contact [elearning@twu.ca](mailto:elearning@twu.ca). -->

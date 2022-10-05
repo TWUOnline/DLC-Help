@@ -6,6 +6,11 @@ taxonomy:
 child_type: docs
 visible: true
 ---
+###This guide has gone on to bigger and better things. Check it out [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=145321#2).
+####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
+
+####Interested in multi-access teaching strategies? Need advice for developing your course? Looking for examples? Tips? Check out our [new multi-access site](https://multi-access.twu.ca).
+<!--
 
 ![CC-BY License](ccby.png)
 
@@ -143,3 +148,4 @@ If a disruptive, uninvited attendee appears in your meeting, the first thing you
 
 ##### 10 Ways to Secure Zoom
 ![alt-text](zoom.jpg "zoom tips infographic")
+-->
