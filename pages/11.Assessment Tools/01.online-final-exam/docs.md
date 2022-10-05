@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: true
+visible: false
 show_page_title: false
 ---
 ###This guide has gone on to bigger and better things. Check it out [here](https://multi-access.twu.ca/assessment/online-final-exam).

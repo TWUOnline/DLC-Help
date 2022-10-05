@@ -2,6 +2,7 @@
 title: 'Other Web Tools'
 taxonomy:
     category: docs
+    visible: false
 ---
 ###This guide has gone on to bigger and better things.
 ####Find technical answers to your online teaching questions on the [TWU Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747).
