@@ -1,8 +1,7 @@
 ---
 title: 'Other Web Tools'
 taxonomy:
-category:
-    - docs
+category: docs
 visible: false
 
 ---
